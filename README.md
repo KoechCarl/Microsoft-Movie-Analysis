@@ -19,10 +19,10 @@ The insights in this report can help Microsoft make data-informed decisions abou
 
 | File | Description |
 |------|-------------|
-| `notebooks/movie_analysis.ipynb` | Main notebook with code, visualizations, and findings |
-| `data/` | Folder containing cleaned movie datasets |
+| `notebooks/Movie_analysis.ipynb` | Main notebook with code, visualizations, and findings |
+| `data/` | Folder containing movie datasets I used|
 | `movie_visuals/` | Contains generated bar charts for rating, gross, genre, etc. |
-| `presentation/Movie_Analysis_Overview.ipynb | A non-technical summary of our findings (slide deck) |
+| `presentation/Movie_Analysis_Overview.ipynb` | A non-technical summary of our findings (slide deck) |
 | `README.md` | This file — a plain-English overview of the project |
 
 ---
@@ -30,8 +30,8 @@ The insights in this report can help Microsoft make data-informed decisions abou
 ## 📌 Key Insights
 
 1. 🎯 **Genres like Action and Adventure** earn the highest average revenue.
-2. ⭐ **Movies with IMDb ratings above 7.5** tend to perform better at the box office.
-3. ⏱️ **Films between 100–130 minutes** strike the best balance between viewer satisfaction and profitability.
+2. ⭐ **Movies with IMDb ratings above 6.2** tend to perform better at the box office.
+3. ⏱️ **Films between 100–145 minutes** strike the best balance between viewer satisfaction and profitability.
 4. 🏢 **Studios like [Trafalgar/NAV/etc.]** produce consistently high-rated films.
 
 ---
