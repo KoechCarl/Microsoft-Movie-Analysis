@@ -1,4 +1,4 @@
-# 🎬 Microsoft Movie Studio Analysis
+# 🎬 Microsoft Movie Analysis
 
 This project explores what types of movies Microsoft should consider producing as it plans to launch a new film studio. The goal is to identify trends that drive box office success — such as genre, runtime, rating, and studio performance — using real-world data.
 
