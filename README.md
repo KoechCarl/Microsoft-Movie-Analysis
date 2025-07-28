@@ -20,7 +20,7 @@ The insights in this report can help Microsoft make data-informed decisions abou
 | File | Description |
 |------|-------------|
 | `notebooks/Movie_analysis.ipynb` | Main notebook with code, visualizations, and findings |
-| `data/` | Folder containing movie datasets I used|
+| `data/` | Folder containing movie datasets we used|
 | `movie_visuals/` | Contains generated bar charts for rating, gross, genre, etc. |
 | `presentation/Movie_Analysis_Overview.ipynb` | A non-technical summary of our findings (slide deck) |
 | `README.md` | This file — a plain-English overview of the project |
