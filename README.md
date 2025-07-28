@@ -1,6 +1,6 @@
 # Microsoft Movie Analysis
 
-This project explores what types of movies Microsoft should consider producing as it plans to launch a new film studio. The goal is to identify trends that drive box office success — such as genre, runtime, rating, and studio performance — using real-world data.
+This project explores what types of movies Microsoft should consider producing as it plans to launch a new film studio. The goal is to identify trends that drive box office success, such as genre, runtime, rating, and studio performance, using real-world data.
 
 ## Project Overview
 
@@ -9,7 +9,7 @@ Using publicly available movie data from IMDb and Box Office Mojo, we analyzed:
 - What **genres** bring in the most revenue?
 - How do **IMDb ratings** relate to box office success?
 - What is the ideal **runtime** for a profitable movie?
-- Which **studios** consistently produce hits — both critically and commercially?
+- Which **studios** consistently produce hits, both critically and commercially?
 
 The insights in this report can help Microsoft make data-informed decisions about what kinds of films to produce.
 
@@ -23,7 +23,7 @@ The insights in this report can help Microsoft make data-informed decisions abou
 | `data/` | Folder containing movie datasets we used|
 | `movie_visuals/` | Contains generated bar charts for rating, gross, genre, etc. |
 | `presentation/Movie_Analysis_Overview.ipynb` | A non-technical summary of our findings (slide deck) |
-| `README.md` | This file — a plain-English overview of the project |
+| `README.md` | This file, a plain-English overview of the project |
 
 ---
 
